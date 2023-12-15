@@ -1,6 +1,6 @@
-# MOVTIME movie application
+# Landmark Nuart Theatres' Movie Streaming
 
-A Movie application where you can go to view infomration and images of the most trending, popular, top rated , similar movies and Tv series all up to date.
+A Landmark Nuart Theatre Movie Streaming where you can go to view information and images of the most trending, popular, top-rated, similar movies and Tv series all up to date.
 
 **End Result**
 
